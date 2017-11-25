@@ -1,0 +1,11 @@
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\bin\Debug\netstandard2.0\Services.Dto.deps.json
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\bin\Debug\netstandard2.0\Services.Dto.dll
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\bin\Debug\netstandard2.0\Services.Dto.pdb
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\bin\Debug\netstandard2.0\Domain.Models.dll
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\bin\Debug\netstandard2.0\Domain.Models.pdb
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\obj\Debug\netstandard2.0\Services.Dto.csprojResolveAssemblyReference.cache
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\obj\Debug\netstandard2.0\Services.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\obj\Debug\netstandard2.0\Services.Dto.AssemblyInfoInputs.cache
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\obj\Debug\netstandard2.0\Services.Dto.AssemblyInfo.cs
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\obj\Debug\netstandard2.0\Services.Dto.dll
+C:\Users\Gleam\Desktop\TestTaskC\Backend\TestApp\Services.Dto\obj\Debug\netstandard2.0\Services.Dto.pdb

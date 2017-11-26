@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "TestApp\TestApp.csproj", "{4FB11262-6ED4-4CCB-809B-081C6D9A5361}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Models", "Domain.Models\Domain.Models.csproj", "{F24DCF6F-E157-4539-A4CE-55C42188341F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services.Dto\Services.csproj", "{5F66A509-2318-4312-8AE1-0CAA80EDD8C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{4644AA7F-742C-433A-B682-EF93E04A1DD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5F66A509-2318-4312-8AE1-0CAA80EDD8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F66A509-2318-4312-8AE1-0CAA80EDD8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F66A509-2318-4312-8AE1-0CAA80EDD8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4644AA7F-742C-433A-B682-EF93E04A1DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4644AA7F-742C-433A-B682-EF93E04A1DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4644AA7F-742C-433A-B682-EF93E04A1DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4644AA7F-742C-433A-B682-EF93E04A1DD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

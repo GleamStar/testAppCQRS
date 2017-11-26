@@ -5,9 +5,9 @@ namespace TestApp.Application.SignalR
 {
     public class ClassesHub: Hub
     {
-        public void Refresh(Guid classesId) 
+        public void Refresh() 
         {
-            Clients.All.InvokeAsync("refresh", classesId);
+            Clients.All.InvokeAsync("refresh");
         }
     }
 }

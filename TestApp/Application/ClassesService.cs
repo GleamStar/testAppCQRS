@@ -35,7 +35,7 @@ namespace TestApp.Application
                 throw new Exception("Creating an class failed on save.");
             }
             if (@class.ClassId != null)
-                await _hubContext.Clients.All.InvokeAsync("refresh", @class.ClassId);
+                await _hubContext.Clients.All.InvokeAsync("refresh");
             return @class.ClassId;
         }
 
@@ -48,7 +48,7 @@ namespace TestApp.Application
                 throw new Exception("Deting an class failed on save.");
             }
             if (result.Success)
-                await _hubContext.Clients.All.InvokeAsync("refresh", classId);
+                await _hubContext.Clients.All.InvokeAsync("refresh");
         }
 
         public async Task<IEnumerable<ClassDto>> GetClassesAsync()
@@ -69,7 +69,7 @@ namespace TestApp.Application
                 throw new Exception("Updating an class failed on save.");
             }
             if (result.Success)
-                await _hubContext.Clients.All.InvokeAsync("refresh", classId);
+                await _hubContext.Clients.All.InvokeAsync("refresh");
         }
     }
 }

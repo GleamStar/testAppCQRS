@@ -49,7 +49,7 @@ namespace TestApp.Controllers
             return NoContent();
         }
         [HttpPut("classes/{classId}/students/{studentId}")]
-        public async Task<IActionResult> UpdateBookForAuthor(Guid classId,Guid studentId, [FromBody] UpsertStudentDto studentDto)
+        public async Task<IActionResult> UpdateStudent(Guid classId,Guid studentId, [FromBody] UpsertStudentDto studentDto)
         {
             if (studentDto == null)
             {

@@ -16,6 +16,7 @@ namespace TestApp
     {
         public Startup(IConfiguration configuration)
         {
+            Microsoft.ApplicationInsights.Extensibility.Implementation.TelemetryDebugWriter.IsTracingDisabled = true;
             Configuration = configuration;
         }
 

@@ -2,3 +2,4 @@
 - Main project TestApp
 - Architecture CQRS
 - RUN ONLY BY USING VS 2017
+- Azure - http://testtaskback.azurewebsites.net/swagger 

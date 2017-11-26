@@ -1,0 +1,4 @@
+- Apllication based on ASP.NET Core 2.0 
+- Main project TestApp
+- Architecture CQRS
+- RUN ONLY BY USING VS 2017
